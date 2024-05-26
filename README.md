@@ -1,5 +1,8 @@
 # Coffee-Shop-Sales
 
+## Project Overview ##
+This project involves a comprehensive sales analysis for a coffee shop, focusing on key performance indicators (KPIs) like total sales, orders, and quantity sold. Visualizations include calendar heat maps, weekday/weekend comparisons, and product category analysis to identify trends and optimize sales strategies across different store locations and time periods.
+
 ## PROBLEM STATMENT ##
 
 **KPI'S Requirements**
